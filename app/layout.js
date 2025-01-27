@@ -1,3 +1,4 @@
+// filepath: /C:/Users/iamjo/OneDrive/Desktop/sakthi_stores/app/layout.js
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
